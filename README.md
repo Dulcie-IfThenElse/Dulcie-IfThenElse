@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**Dulcie-IfThenElse/Dulcie-IfThenElse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently creating my first data analyst portfolio.
 - 🌱 I’m currently learning how to do sentiment analysis using Python.
 - 👯 I’m looking to collaborate on new projects to help build my skills.
